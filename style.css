@@ -1,0 +1,9 @@
+.t1{
+	transform: rotate(-90deg);
+	height:400px;
+	width: 400px;
+}
+td{
+	height:20px;
+	width: 40px;
+}
